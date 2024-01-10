@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Monterrey 1,Arantza Solbes,Coverage,Coverage,100%,92%,92%,,,,,,Arantza,Solbes,269.0,269ARCOVMOSO
+Monterrey 1,Arantza Solbes,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Arantza,Solbes,270.0,270ARFACMOSO
+Monterrey 1,Arantza Solbes,Fleet,Penetración de Productos,$0.38,$2.103983822960997,100%,Se contabilizan anualmente,,,,,Arantza,Solbes,271.0,271ARFLEMOSO
+Monterrey 1,Arantza Solbes,Seguros,Penetración de Productos,70%,100%,100%,Se contabilizan anualmente,7.0,9.71781897328118,10.235863172911944,1.0,Arantza,Solbes,272.0,272ARSEGMOSO
+Monterrey 1,Arantza Solbes,Pipeline a final del 4Q,Pipeline,$18.0,$28.65372395741423,100%,,,,,,Arantza,Solbes,273.0,273ARPIPMOSO

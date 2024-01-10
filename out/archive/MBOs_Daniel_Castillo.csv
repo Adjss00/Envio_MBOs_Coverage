@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Daniel Castillo,Coverage,Coverage,100%,100%,100%,,,,,,Daniel,Castillo,3.0,3DACOVGUCA
+Guadalajara 1,Daniel Castillo,Clientes Nuevos,Personalizado,5.0,0.0,0%,,,,,,Daniel,Castillo,4.0,4DACLIGUCA
+Guadalajara 1,Daniel Castillo,Factoraje,Penetración de Productos,$1.028,$0.0,0%,,,,,,Daniel,Castillo,5.0,5DAFACGUCA
+Guadalajara 1,Daniel Castillo,Fleet,Penetración de Productos,$0.457,$0.0,0%,,,,,,Daniel,Castillo,6.0,6DAFLEGUCA
+Guadalajara 1,Daniel Castillo,Seguros,Penetración de Productos,70%,0%,0%,Se contabilizan anualmente,6.0,0.0,0.2273403363368457,0.0,Daniel,Castillo,7.0,7DASEGGUCA
+Guadalajara 1,Daniel Castillo,Creación Pipeline,Pipeline,$8.0,$3.0449234309993805,38%,,,,,,Daniel,Castillo,8.0,8DACREGUCA

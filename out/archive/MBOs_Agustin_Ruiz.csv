@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 1,Agustin Ruiz,Coverage,Coverage,100%,100%,100%,,,,,,Agustin,Ruiz,185.0,185AGCOVMERU
+Mexico 1,Agustin Ruiz,Fleet,Penetración de Productos,$0.21,$0.49661697379598774,100%,Se contabilizan anualmente,,,,,Agustin,Ruiz,186.0,186AGFLEMERU
+Mexico 1,Agustin Ruiz,Seguros,Penetración de Productos,70%,87%,100%,Se contabilizan anualmente,10.0,0.4934442931225933,0.5626431297160843,0.8770111409190947,Agustin,Ruiz,187.0,187AGSEGMERU
+Mexico 1,Agustin Ruiz,Creación Pipeline,Pipeline,$12.0,$5.488404001062229,45%,,,,,,Agustin,Ruiz,188.0,188AGCREMERU

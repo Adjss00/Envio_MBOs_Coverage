@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 2,Octavio Chimal,Coverage,Coverage,100%,97%,97%,,,,,,Octavio,Chimal,193.0,193OCCOVMECH
+Mexico 2,Octavio Chimal,Fleet,Penetración de Productos,$0.2,$4.87446046584493,100%,Se contabilizan anualmente,,,,,Octavio,Chimal,194.0,194OCFLEMECH
+Mexico 2,Octavio Chimal,Seguros,Penetración de Productos,70%,47%,67%,Se contabilizan anualmente,13.5,5.9600645324590085,12.680480396622892,0.4700188278392286,Octavio,Chimal,195.0,195OCSEGMECH
+Mexico 2,Octavio Chimal,Creación Pipeline,Pipeline,$14.0,$20.056800998052584,100%,,,,,,Octavio,Chimal,196.0,196OCCREMECH

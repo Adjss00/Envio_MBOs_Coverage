@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 2,Fernando Cruz,Reuniones New New,Coverage,30.0,,,,,,,,Fernando,Cruz,81.0,81FEREULMCR
+LMM 2,Fernando Cruz,Seguros,Penetración de Productos,85%,93%,100%,Se contabilizan anualmente,4.0,3.141524051336179,3.3494352951243203,0.9379264785049611,Fernando,Cruz,82.0,82FESEGLMCR
+LMM 2,Fernando Cruz,Factoraje,Penetración de Productos,$0.171,$0.0,0%,Se contabilizan anualmente,,,,,Fernando,Cruz,83.0,83FEFACLMCR
+LMM 2,Fernando Cruz,Fleet,Penetración de Productos,$0.035,$0.3738018831004599,100%,Se contabilizan anualmente,,,,,Fernando,Cruz,84.0,84FEFLELMCR
+LMM 2,Fernando Cruz,Clientes Nuevos,Personalizado,2.0,2.0,100%,,,,,,Fernando,Cruz,85.0,85FECLILMCR
+LMM 2,Fernando Cruz,Creación Pipeline,Pipeline,$6.0,$3.627664067340887,60%,,,,,,Fernando,Cruz,86.0,86FECRELMCR

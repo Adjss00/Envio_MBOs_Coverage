@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 3,Jorge Barajas,Coverage,Coverage,100%,100%,100%,,,,,,Jorge,Barajas,236.0,236JOCOVMEBA
+Mexico 3,Jorge Barajas,Fleet,Penetración de Productos,$0.65,$0.11976154786590361,18%,Se contabilizan anualmente,,,,,Jorge,Barajas,237.0,237JOFLEMEBA
+Mexico 3,Jorge Barajas,Seguros,Penetración de Productos,70%,77%,100%,Se contabilizan anualmente,8.5,0.09223936308588114,0.11976154786590361,0.7701918080514547,Jorge,Barajas,238.0,238JOSEGMEBA
+Mexico 3,Jorge Barajas,Clientes Nuevos,Personalizado,5.0,1.0,20%,,,,,,Jorge,Barajas,239.0,239JOCLIMEBA
+Mexico 3,Jorge Barajas,Creación Pipeline,Pipeline,$14.0,$8.2986633619545,59%,,,,,,Jorge,Barajas,240.0,240JOCREMEBA

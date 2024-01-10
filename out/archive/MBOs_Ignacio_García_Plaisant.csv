@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 1,Ignacio García Plaisant,Reuniones New New,Coverage,30.0,,,,,,,,Ignacio,GarcíaPlaisant,63.0,63IGREULMGA
+LMM 1,Ignacio García Plaisant,Seguros,Penetración de Productos,85%,93%,100%,Se contabilizan anualmente,3.5,1.6319103176161496,1.737719226277471,0.9391104690209451,Ignacio,GarcíaPlaisant,64.0,64IGSEGLMGA
+LMM 1,Ignacio García Plaisant,Factoraje,Penetración de Productos,$0.6,$0.0,0%,Se contabilizan anualmente,,,,,Ignacio,GarcíaPlaisant,65.0,65IGFACLMGA
+LMM 1,Ignacio García Plaisant,Fleet,Penetración de Productos,$0.267,$0.10580890866132149,39%,Se contabilizan anualmente,,,,,Ignacio,GarcíaPlaisant,66.0,66IGFLELMGA
+LMM 1,Ignacio García Plaisant,Clientes Nuevos,Personalizado,1.0,2.0,100%,,,,,,Ignacio,GarcíaPlaisant,67.0,67IGCLILMGA
+LMM 1,Ignacio García Plaisant,Creación Pipeline,Pipeline,$8.0,$2.4686163859874304,30%,,,,,,Ignacio,GarcíaPlaisant,68.0,68IGCRELMGA

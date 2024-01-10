@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Omar Rodríguez,Coverage,Coverage,100%,100%,100%,,,,,,Omar,Rodríguez,33.0,33OMCOVGURO
+Guadalajara 1,Omar Rodríguez,Clientes Nuevos,Personalizado,5.0,4.0,80%,,,,,,Omar,Rodríguez,34.0,34OMCLIGURO
+Guadalajara 1,Omar Rodríguez,Factoraje,Penetración de Productos,$1.884,$0.0,0%,Se contabilizan anualmente,,,,,Omar,Rodríguez,35.0,35OMFACGURO
+Guadalajara 1,Omar Rodríguez,Fleet,Penetración de Productos,$1.028,$0.32840400578624884,31%,Se contabilizan anualmente,,,,,Omar,Rodríguez,36.0,36OMFLEGURO
+Guadalajara 1,Omar Rodríguez,Seguros,Penetración de Productos,70%,95%,100%,Se contabilizan anualmente,11.0,8.67273775240132,9.066268485441865,0.9565939687675854,Omar,Rodríguez,37.0,37OMSEGGURO
+Guadalajara 1,Omar Rodríguez,Creación Pipeline,Pipeline,$10.0,$11.079764258763388,100%,,,,,,Omar,Rodríguez,38.0,38OMCREGURO

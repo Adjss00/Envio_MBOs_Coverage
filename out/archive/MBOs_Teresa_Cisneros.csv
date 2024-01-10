@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 3,Teresa Cisneros,Reuniones New New,Coverage,30.0,,,,,,,,Teresa,Cisneros,111.0,111TEREULMCI
+LMM 3,Teresa Cisneros,Seguros,Penetración de Productos,85%,100%,100%,Se contabilizan anualmente,2.5,0.0821834447376038,0.0821834447376038,1.0,Teresa,Cisneros,112.0,112TESEGLMCI
+LMM 3,Teresa Cisneros,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Teresa,Cisneros,113.0,113TEFACLMCI
+LMM 3,Teresa Cisneros,Fleet,Penetración de Productos,$0.0,$0.0821834447376038,0%,Se contabilizan anualmente,,,,,Teresa,Cisneros,114.0,114TEFLELMCI
+LMM 3,Teresa Cisneros,Clientes Nuevos,Personalizado,2.0,2.0,100%,,,,,,Teresa,Cisneros,115.0,115TECLILMCI
+LMM 3,Teresa Cisneros,Creación Pipeline,Pipeline,$8.0,$2.656983048596973,33%,,,,,,Teresa,Cisneros,116.0,116TECRELMCI

@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 2,Rafael Garcia,Coverage,Coverage,100%,100%,100%,,,,,,Rafael,Garcia,201.0,201RACOVMEGA
+Mexico 2,Rafael Garcia,Clientes Nuevos,Personalizado,1.0,5.0,100%,Se contabilizan anualmente,,,,,Rafael,Garcia,202.0,202RACLIMEGA
+Mexico 2,Rafael Garcia,Fleet,Penetración de Productos,$0.2,$0.6313200465023315,100%,Se contabilizan anualmente,,,,,Rafael,Garcia,203.0,203RAFLEMEGA
+Mexico 2,Rafael Garcia,Seguros,Penetración de Productos,70%,39%,55%,Se contabilizan anualmente,14.0,5.487105862296655,16.390272143074938,0.3919361330211896,Rafael,Garcia,204.0,204RASEGMEGA
+Mexico 2,Rafael Garcia,Creación Pipeline,Pipeline,$14.0,$13.06496862939276,93%,,,,,,Rafael,Garcia,205.0,205RACREMEGA

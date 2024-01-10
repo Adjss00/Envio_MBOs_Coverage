@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Dulce Villegas,Coverage,Coverage,100%,100%,100%,,,,,,Dulce,Villegas,9.0,9DUCOVGUVI
+Guadalajara 1,Dulce Villegas,Clientes Nuevos,Personalizado,5.0,6.0,100%,,,,,,Dulce,Villegas,10.0,10DUCLIGUVI
+Guadalajara 1,Dulce Villegas,Factoraje,Penetración de Productos,$1.541,$6.748157575398822,100%,Se contabilizan anualmente,,,,,Dulce,Villegas,11.0,11DUFACGUVI
+Guadalajara 1,Dulce Villegas,Fleet,Penetración de Productos,$0.685,$1.3743347545727889,100%,Se contabilizan anualmente,,,,,Dulce,Villegas,12.0,12DUFLEGUVI
+Guadalajara 1,Dulce Villegas,Seguros,Penetración de Productos,70%,69%,99%,Se contabilizan anualmente,9.0,1.9484811116560798,2.8099135209967,0.6934309889241492,Dulce,Villegas,13.0,13DUSEGGUVI
+Guadalajara 1,Dulce Villegas,Creación Pipeline,Pipeline,$9.0,$4.204656103390281,46%,,,,,,Dulce,Villegas,14.0,14DUCREGUVI

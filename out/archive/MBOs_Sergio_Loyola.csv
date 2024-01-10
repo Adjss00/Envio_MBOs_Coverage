@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 1,Sergio Loyola,Coverage,Coverage,100%,0%,0%,,,,,,Sergio,Loyola,232.0,232SECOVMELO
+Mexico 1,Sergio Loyola,Fleet,Penetración de Productos,$0.13,$0.6889198234442223,100%,Se contabilizan anualmente,,,,,Sergio,Loyola,233.0,233SEFLEMELO
+Mexico 1,Sergio Loyola,Seguros,Penetración de Productos,70%,0%,0%,Se contabilizan anualmente,8.5,0.0,0.655890228037705,0.0,Sergio,Loyola,234.0,234SESEGMELO
+Mexico 1,Sergio Loyola,Creación Pipeline,Pipeline,$10.0,$8.02620164645481,80%,,,,,,Sergio,Loyola,235.0,235SECREMELO

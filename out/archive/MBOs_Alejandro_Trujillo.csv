@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 1,Alejandro Trujillo,Coverage,Coverage,100%,100%,100%,,,,,,Alejandro,Trujillo,177.0,177ALCOVMETR
+Mexico 1,Alejandro Trujillo,Fleet,Penetración de Productos,$0.13,$0.23271059756711154,100%,Se contabilizan anualmente,,,,,Alejandro,Trujillo,178.0,178ALFLEMETR
+Mexico 1,Alejandro Trujillo,Seguros,Penetración de Productos,70%,0%,0%,Se contabilizan anualmente,7.0,0.0,1.9674267674679748,0.0,Alejandro,Trujillo,179.0,179ALSEGMETR
+Mexico 1,Alejandro Trujillo,Creación Pipeline,Pipeline,$12.0,$7.749579534389661,64%,,,,,,Alejandro,Trujillo,180.0,180ALCREMETR

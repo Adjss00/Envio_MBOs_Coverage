@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 1,Juan Villaseñor,Reuniones New New,Coverage,30.0,,,,,,,,Juan,Villaseñor,45.0,45JUREULMVI
+LMM 1,Juan Villaseñor,Seguros,Penetración de Productos,85%,100%,100%,Se contabilizan anualmente,1.0,0.946816210279996,0.4869366293760979,1.0,Juan,Villaseñor,46.0,46JUSEGLMVI
+LMM 1,Juan Villaseñor,Factoraje,Penetración de Productos,$0.172,$0.0,0%,Se contabilizan anualmente,,,,,Juan,Villaseñor,47.0,47JUFACLMVI
+LMM 1,Juan Villaseñor,Fleet,Penetración de Productos,$0.077,$0.0,0%,Se contabilizan anualmente,,,,,Juan,Villaseñor,48.0,48JUFLELMVI
+LMM 1,Juan Villaseñor,Clientes Nuevos,Personalizado,1.0,3.0,100%,,,,,,Juan,Villaseñor,49.0,49JUCLILMVI
+LMM 1,Juan Villaseñor,Creación Pipeline,Pipeline,$8.0,$4.7708928625962645,59%,,,,,,Juan,Villaseñor,50.0,50JUCRELMVI

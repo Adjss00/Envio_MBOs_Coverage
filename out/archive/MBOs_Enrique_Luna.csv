@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 3,Enrique Luna,Coverage,Coverage,100%,100%,100%,,,,,,Enrique,Luna,216.0,216ENCOVMELU
+Mexico 3,Enrique Luna,Fleet,Penetración de Productos,$0.5,$2.1839649363799527,100%,Se contabilizan anualmente,,,,,Enrique,Luna,217.0,217ENFLEMELU
+Mexico 3,Enrique Luna,Seguros,Penetración de Productos,70%,25%,36%,Se contabilizan anualmente,6.5,1.6823749871088345,11.416160513342964,0.25882692109366684,Enrique,Luna,218.0,218ENSEGMELU
+Mexico 3,Enrique Luna,Clientes Nuevos,Personalizado,5.0,2.0,40%,,,,,,Enrique,Luna,219.0,219ENCLIMELU
+Mexico 3,Enrique Luna,Creación Pipeline,Pipeline,$6.0,$1.8663664136496414,31%,,,,,,Enrique,Luna,220.0,220ENCREMELU

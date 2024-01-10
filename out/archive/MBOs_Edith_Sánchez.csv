@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 1,Edith Sánchez,Coverage,Coverage,100%,100%,100%,,,,,,Edith,Sánchez,189.0,189EDCOVMESÁ
+Mexico 1,Edith Sánchez,Fleet,Penetración de Productos,$0.13,$1.0571539645607442,100%,Se contabilizan anualmente,,,,,Edith,Sánchez,190.0,190EDFLEMESÁ
+Mexico 1,Edith Sánchez,Seguros,Penetración de Productos,70%,48%,69%,Se contabilizan anualmente,7.0,3.40324630696028,29.20779675170562,0.48617804385146857,Edith,Sánchez,191.0,191EDSEGMESÁ
+Mexico 1,Edith Sánchez,Creación Pipeline,Pipeline,$10.0,$8.188014517128442,81%,,,,,,Edith,Sánchez,192.0,192EDCREMESÁ

@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 2,Marco Cohen,Coverage,Coverage,100%,100%,100%,,,,,,Marco,Cohen,211.0,211MACOVMECO
+Mexico 2,Marco Cohen,Clientes Nuevos,Personalizado,1.0,2.0,100%,Se contabilizan anualmente,,,,,Marco,Cohen,212.0,212MACLIMECO
+Mexico 2,Marco Cohen,Fleet,Penetración de Productos,$0.0,$0.36409315137830706,100%,Se contabilizan anualmente,,,,,Marco,Cohen,213.0,213MAFLEMECO
+Mexico 2,Marco Cohen,Seguros,Penetración de Productos,70%,100%,100%,Se contabilizan anualmente,4.0,10.007975381995642,5.768824855036127,1.0,Marco,Cohen,214.0,214MASEGMECO
+Mexico 2,Marco Cohen,Creación Pipeline,Pipeline,$10.0,$3.6720020248738603,36%,,,,,,Marco,Cohen,215.0,215MACREMECO

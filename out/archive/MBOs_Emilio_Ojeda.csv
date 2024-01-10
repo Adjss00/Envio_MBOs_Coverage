@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 2,Emilio Ojeda,Reuniones New New,Coverage,30.0,,,,,,,,Emilio,Ojeda,99.0,99EMREULMOJ
+LMM 2,Emilio Ojeda,Seguros,Penetración de Productos,85%,0%,0%,Se contabilizan anualmente,1.0,0.0,0.0,,Emilio,Ojeda,100.0,100EMSEGLMOJ
+LMM 2,Emilio Ojeda,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Emilio,Ojeda,101.0,101EMFACLMOJ
+LMM 2,Emilio Ojeda,Fleet,Penetración de Productos,$0.048,$0.0,0%,Se contabilizan anualmente,,,,,Emilio,Ojeda,102.0,102EMFLELMOJ
+LMM 2,Emilio Ojeda,Clientes Nuevos,Personalizado,2.0,0.0,0%,,,,,,Emilio,Ojeda,103.0,103EMCLILMOJ
+LMM 2,Emilio Ojeda,Creación Pipeline,Pipeline,$8.0,$1.1614256777241745,14%,,,,,,Emilio,Ojeda,104.0,104EMCRELMOJ

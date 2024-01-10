@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Samuel Cepeda,Coverage,Coverage,100%,100%,100%,,,,,,Samuel,Cepeda,39.0,39SACOVGUCE
+Guadalajara 1,Samuel Cepeda,Clientes Nuevos,Personalizado,5.0,3.0,60%,,,,,,Samuel,Cepeda,40.0,40SACLIGUCE
+Guadalajara 1,Samuel Cepeda,Factoraje,Penetración de Productos,$1.884,$0.0,0%,Se contabilizan anualmente,,,,,Samuel,Cepeda,41.0,41SAFACGUCE
+Guadalajara 1,Samuel Cepeda,Fleet,Penetración de Productos,$0.837,$0.36949065913810764,44%,Se contabilizan anualmente,,,,,Samuel,Cepeda,42.0,42SAFLEGUCE
+Guadalajara 1,Samuel Cepeda,Seguros,Penetración de Productos,70%,45%,65%,Se contabilizan anualmente,11.0,1.8887168609929101,4.124893963930081,0.45788252437727994,Samuel,Cepeda,43.0,43SASEGGUCE
+Guadalajara 1,Samuel Cepeda,Creación Pipeline,Pipeline,$10.0,$10.765884748163229,100%,,,,,,Samuel,Cepeda,44.0,44SACREGUCE

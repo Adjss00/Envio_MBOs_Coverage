@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 2,Julieta Medrano,Reuniones New New,Coverage,30.0,,,,,,,,Julieta,Medrano,105.0,105JUREULMME
+LMM 2,Julieta Medrano,Seguros,Penetración de Productos,85%,100%,100%,Se contabilizan anualmente,1.5,1.0333617943264788,1.0333617943264788,1.0,Julieta,Medrano,106.0,106JUSEGLMME
+LMM 2,Julieta Medrano,Factoraje,Penetración de Productos,$0.064,$0.0,0%,Se contabilizan anualmente,,,,,Julieta,Medrano,107.0,107JUFACLMME
+LMM 2,Julieta Medrano,Fleet,Penetración de Productos,$0.05,$0.2673657130955158,100%,Se contabilizan anualmente,,,,,Julieta,Medrano,108.0,108JUFLELMME
+LMM 2,Julieta Medrano,Clientes Nuevos,Personalizado,2.0,9.0,100%,,,,,,Julieta,Medrano,109.0,109JUCLILMME
+LMM 2,Julieta Medrano,Creación Pipeline,Pipeline,$8.0,$0.775922385921041,9%,,,,,,Julieta,Medrano,110.0,110JUCRELMME

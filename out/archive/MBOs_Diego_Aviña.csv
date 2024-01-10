@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 3,Diego Aviña,Reuniones New New,Coverage,30.0,,,,,,,,Diego,Aviña,123.0,123DIREULMAV
+LMM 3,Diego Aviña,Seguros,Penetración de Productos,85%,65%,76%,Se contabilizan anualmente,2.5,1.233630366809169,1.885031543404672,0.6544348666871818,Diego,Aviña,124.0,124DISEGLMAV
+LMM 3,Diego Aviña,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Diego,Aviña,125.0,125DIFACLMAV
+LMM 3,Diego Aviña,Fleet,Penetración de Productos,$0.0,$0.23414811201794522,100%,Se contabilizan anualmente,,,,,Diego,Aviña,126.0,126DIFLELMAV
+LMM 3,Diego Aviña,Clientes Nuevos,Personalizado,2.0,7.0,100%,,,,,,Diego,Aviña,127.0,127DICLILMAV
+LMM 3,Diego Aviña,Creación Pipeline,Pipeline,$7.0,$3.9797757922457295,56%,,,,,,Diego,Aviña,128.0,128DICRELMAV

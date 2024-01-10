@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Miguel Ortiz,Coverage,Coverage,100%,100%,100%,,,,,,Miguel,Ortiz,21.0,21MICOVGUOR
+Guadalajara 1,Miguel Ortiz,Clientes Nuevos,Personalizado,5.0,3.0,60%,,,,,,Miguel,Ortiz,22.0,22MICLIGUOR
+Guadalajara 1,Miguel Ortiz,Factoraje,Penetración de Productos,$2.397,$0.0,0%,Se contabilizan anualmente,,,,,Miguel,Ortiz,23.0,23MIFACGUOR
+Guadalajara 1,Miguel Ortiz,Fleet,Penetración de Productos,$1.066,$0.4274420070506191,40%,Se contabilizan anualmente,,,,,Miguel,Ortiz,24.0,24MIFLEGUOR
+Guadalajara 1,Miguel Ortiz,Seguros,Penetración de Productos,70%,72%,100%,Se contabilizan anualmente,14.0,10.100693718369271,16.523474001505427,0.7214781227406623,Miguel,Ortiz,25.0,25MISEGGUOR
+Guadalajara 1,Miguel Ortiz,Creación Pipeline,Pipeline,$11.0,$5.1778177010489514,47%,,,,,,Miguel,Ortiz,26.0,26MICREGUOR

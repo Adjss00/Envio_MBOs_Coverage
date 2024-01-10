@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 4,Myrna Leija,Reuniones New New,Coverage,30.0,,,,,,,,Myrna,Leija,161.0,161MYREULMLE
+LMM 4,Myrna Leija,Seguros,Penetración de Productos,85%,42%,50%,Se contabilizan anualmente,3.5,0.8353600695614535,1.9505414570271362,0.4282708611764881,Myrna,Leija,162.0,162MYSEGLMLE
+LMM 4,Myrna Leija,Clientes Nuevos,Personalizado,1.0,7.0,100%,,,,,,Myrna,Leija,163.0,163MYCLILMLE
+LMM 4,Myrna Leija,Creación Pipeline,Pipeline,$4.0,$8.042378320571832,100%,,,,,,Myrna,Leija,164.0,164MYCRELMLE

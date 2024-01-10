@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Fernando Carbajal,Coverage,Coverage,100%,100%,100%,,,,,,Fernando,Carbajal,15.0,15FECOVGUCA
+Guadalajara 1,Fernando Carbajal,Clientes Nuevos,Personalizado,5.0,1.0,20%,,,,,,Fernando,Carbajal,16.0,16FECLIGUCA
+Guadalajara 1,Fernando Carbajal,Factoraje,Penetración de Productos,$1.028,$0.0,0%,Se contabilizan anualmente,,,,,Fernando,Carbajal,17.0,17FEFACGUCA
+Guadalajara 1,Fernando Carbajal,Fleet,Penetración de Productos,$0.457,$0.17093748713066165,37%,Se contabilizan anualmente,,,,,Fernando,Carbajal,18.0,18FEFLEGUCA
+Guadalajara 1,Fernando Carbajal,Seguros,Penetración de Productos,70%,19%,27%,Se contabilizan anualmente,6.0,0.541688573777678,2.7754783740229265,0.19516944496761676,Fernando,Carbajal,19.0,19FESEGGUCA
+Guadalajara 1,Fernando Carbajal,Creación Pipeline,Pipeline,$9.0,$5.311144551650881,59%,,,,,,Fernando,Carbajal,20.0,20FECREGUCA

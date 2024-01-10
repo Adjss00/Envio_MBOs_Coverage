@@ -1,0 +1,5 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 2,Hernan Aguilar,Coverage,Coverage,100%,100%,100%,,,,,,Hernan,Aguilar,197.0,197HECOVMEAG
+Mexico 2,Hernan Aguilar,Fleet,Penetración de Productos,$0.05,$0.3469884462282331,100%,Se contabilizan anualmente,,,,,Hernan,Aguilar,198.0,198HEFLEMEAG
+Mexico 2,Hernan Aguilar,Seguros,Penetración de Productos,70%,18%,25%,Se contabilizan anualmente,5.5,0.25954116117776993,1.4266951146199989,0.18191774718938383,Hernan,Aguilar,199.0,199HESEGMEAG
+Mexico 2,Hernan Aguilar,Creación Pipeline,Pipeline,$6.0,$2.810480658581924,46%,,,,,,Hernan,Aguilar,200.0,200HECREMEAG

@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Monterrey 1,Juan Edgar Zepeda,Coverage,Coverage,100%,100%,100%,,,,,,Juan,EdgarZepeda,284.0,284JUCOVMOED
+Monterrey 1,Juan Edgar Zepeda,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Juan,EdgarZepeda,285.0,285JUFACMOED
+Monterrey 1,Juan Edgar Zepeda,Fleet,Penetración de Productos,$0.2,$0.315214978015407,100%,Se contabilizan anualmente,,,,,Juan,EdgarZepeda,286.0,286JUFLEMOED
+Monterrey 1,Juan Edgar Zepeda,Seguros,Penetración de Productos,70%,100%,100%,Se contabilizan anualmente,14.0,18.390515027295425,23.595670841501033,1.0,Juan,EdgarZepeda,287.0,287JUSEGMOED
+Monterrey 1,Juan Edgar Zepeda,Pipeline a final del 4Q,Pipeline,$20.0,$28.384743689173643,100%,,,,,,Juan,EdgarZepeda,288.0,288JUPIPMOED

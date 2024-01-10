@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Guadalajara 1,Natalia Bernat,Coverage,Coverage,100%,100%,100%,,,,,,Natalia,Bernat,27.0,27NACOVGUBE
+Guadalajara 1,Natalia Bernat,Clientes Nuevos,Personalizado,5.0,1.0,20%,,,,,,Natalia,Bernat,28.0,28NACLIGUBE
+Guadalajara 1,Natalia Bernat,Factoraje,Penetración de Productos,$2.312,$0.0,0%,Se contabilizan anualmente,,,,,Natalia,Bernat,29.0,29NAFACGUBE
+Guadalajara 1,Natalia Bernat,Fleet,Penetración de Productos,$1.028,$1.8386052228546923,100%,Se contabilizan anualmente,,,,,Natalia,Bernat,30.0,30NAFLEGUBE
+Guadalajara 1,Natalia Bernat,Seguros,Penetración de Productos,70%,15%,22%,Se contabilizan anualmente,13.5,2.103128960245056,20.60110661878948,0.15578733038852266,Natalia,Bernat,31.0,31NASEGGUBE
+Guadalajara 1,Natalia Bernat,Creación Pipeline,Pipeline,$11.0,$11.632442241303002,100%,,,,,,Natalia,Bernat,32.0,32NACREGUBE

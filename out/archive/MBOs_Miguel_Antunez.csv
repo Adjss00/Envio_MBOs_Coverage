@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Monterrey 1,Miguel Antunez,Coverage,Coverage,100%,100%,100%,,,,,,Miguel,Antunez,289.0,289MICOVMOAN
+Monterrey 1,Miguel Antunez,Factoraje,Penetración de Productos,$0.0,$0.5791406850602203,100%,Se contabilizan anualmente,,,,,Miguel,Antunez,290.0,290MIFACMOAN
+Monterrey 1,Miguel Antunez,Fleet,Penetración de Productos,$0.25,$0.5505972182296819,100%,Se contabilizan anualmente,,,,,Miguel,Antunez,291.0,291MIFLEMOAN
+Monterrey 1,Miguel Antunez,Seguros,Penetración de Productos,70%,100%,100%,Se contabilizan anualmente,14.0,14.73756971616157,19.433126321558344,1.0,Miguel,Antunez,292.0,292MISEGMOAN
+Monterrey 1,Miguel Antunez,Pipeline a final del 4Q,Pipeline,$20.0,$25.411050261801133,100%,,,,,,Miguel,Antunez,293.0,293MIPIPMOAN

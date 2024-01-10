@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Mexico 2,Federico Carreón,Coverage,Coverage,100%,100%,100%,,,,,,Federico,Carreón,206.0,206FECOVMECA
+Mexico 2,Federico Carreón,Clientes Nuevos,Personalizado,1.0,0.0,0%,Se contabilizan anualmente,,,,,Federico,Carreón,207.0,207FECLIMECA
+Mexico 2,Federico Carreón,Fleet,Penetración de Productos,$0.1,$0.7432540346410741,100%,Se contabilizan anualmente,,,,,Federico,Carreón,208.0,208FEFLEMECA
+Mexico 2,Federico Carreón,Seguros,Penetración de Productos,70%,45%,64%,Se contabilizan anualmente,5.5,1.0215101347085975,2.260547634708598,0.451886135476317,Federico,Carreón,209.0,209FESEGMECA
+Mexico 2,Federico Carreón,Creación Pipeline,Pipeline,$10.0,$5.892050986987695,58%,,,,,,Federico,Carreón,210.0,210FECREMECA

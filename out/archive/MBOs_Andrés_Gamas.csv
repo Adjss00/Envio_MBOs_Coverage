@@ -1,0 +1,8 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 5,Andrés Gamas,Reuniones New New,Coverage,5.0,,,,,,,,Andrés,Gamas,250.0,250ANREULMGA
+LMM 5,Andrés Gamas,Seguros,Penetración de Productos,85%,100%,100%,Se contabilizan anualmente,2.5,0.06647529429647485,0.06647529429647485,1.0,Andrés,Gamas,251.0,251ANSEGLMGA
+LMM 5,Andrés Gamas,Factoraje,Penetración de Productos,$0.0,$0.0,0%,Se contabilizan anualmente,,,,,Andrés,Gamas,252.0,252ANFACLMGA
+LMM 5,Andrés Gamas,Fleet,Penetración de Productos,$0.1,$0.0,0%,Se contabilizan anualmente,,,,,Andrés,Gamas,253.0,253ANFLELMGA
+LMM 5,Andrés Gamas,Clientes Nuevos,Personalizado,1.0,1.0,100%,,,,,,Andrés,Gamas,254.0,254ANCLILMGA
+LMM 5,Andrés Gamas,Creación Pipeline,Pipeline,$2.0,$0.27662211206515,13%,,,,,,Andrés,Gamas,255.0,255ANCRELMGA
+LMM 5,Andrés Gamas,Hand Off a crédito,Personalizado,1.0,1.0,100%,,,,,,Andrés,Gamas,256.0,256ANHANLMGA

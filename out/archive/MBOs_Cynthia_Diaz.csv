@@ -1,0 +1,7 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+LMM 2,Cynthia Diaz,Reuniones New New,Coverage,30.0,,,,,,,,Cynthia,Diaz,75.0,75CYREULMDI
+LMM 2,Cynthia Diaz,Seguros,Penetración de Productos,85%,59%,69%,Se contabilizan anualmente,4.5,2.408669299273763,4.07156192581773,0.5915836092287868,Cynthia,Diaz,76.0,76CYSEGLMDI
+LMM 2,Cynthia Diaz,Factoraje,Penetración de Productos,$0.193,$0.7378188938392123,100%,Se contabilizan anualmente,,,,,Cynthia,Diaz,77.0,77CYFACLMDI
+LMM 2,Cynthia Diaz,Fleet,Penetración de Productos,$0.086,$0.06085955295346538,70%,Se contabilizan anualmente,,,,,Cynthia,Diaz,78.0,78CYFLELMDI
+LMM 2,Cynthia Diaz,Clientes Nuevos,Personalizado,2.0,4.0,100%,,,,,,Cynthia,Diaz,79.0,79CYCLILMDI
+LMM 2,Cynthia Diaz,Creación Pipeline,Pipeline,$6.0,$2.9308887315216428,48%,,,,,,Cynthia,Diaz,80.0,80CYCRELMDI

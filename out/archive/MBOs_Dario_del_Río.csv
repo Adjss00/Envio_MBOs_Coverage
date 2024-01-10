@@ -1,0 +1,6 @@
+Region,Originador,MBO,Tipo MBO,Target,Actual,% Cumplimiento ,Notas,meta,monto seguro,monto fondeado,Column1,Nombre,Apellido,Puesto,ID
+Monterrey 1,Dario del Río,Coverage,Coverage,100%,100%,100%,,,,,,Dario,delRío,274.0,274DACOVMODE
+Monterrey 1,Dario del Río,Factoraje,Penetración de Productos,$0.0,$1.1951857916313091,100%,Se contabilizan anualmente,,,,,Dario,delRío,275.0,275DAFACMODE
+Monterrey 1,Dario del Río,Fleet,Penetración de Productos,$0.84,$0.6702203827205843,79%,Se contabilizan anualmente,,,,,Dario,delRío,276.0,276DAFLEMODE
+Monterrey 1,Dario del Río,Seguros,Penetración de Productos,70%,84%,100%,Se contabilizan anualmente,12.0,10.112311202020145,13.993172929510699,0.8426926001683454,Dario,delRío,277.0,277DASEGMODE
+Monterrey 1,Dario del Río,Pipeline a final del 4Q,Pipeline,$18.0,$35.24395149323675,100%,,,,,,Dario,delRío,278.0,278DAPIPMODE
