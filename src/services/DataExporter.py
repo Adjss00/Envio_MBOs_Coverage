@@ -2,7 +2,8 @@ import os
 import pandas as pd
 
 # Obtén la ruta al directorio principal del proyecto
-project_dir = "C:/Users/503001479/Desktop/MBOs"
+current_dir = os.path.dirname(os.path.realpath(__file__))
+project_dir = os.path.join(current_dir, )
 
 class DataExporter:
     def __init__(self, project_dir, output_dir):
